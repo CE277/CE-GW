@@ -1,0 +1,705 @@
+army = {
+	name = "Army 1"
+	location = 375
+	regiment = {
+		name= "Hussars" 
+                home = 375
+		type = hussar
+	}
+	regiment = {
+		name= "Infantry" 
+                home = 375
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+                home = 375
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+                home = 375
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+                home = 375
+		type = infantry
+	}
+	regiment = {
+		name= "Artillery" 
+                home = 375
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery" 
+                home = 375
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery"
+                home = 375
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery" 
+                home = 375
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery" 
+                home = 375
+		type = artillery
+	}
+}
+
+army = {
+	name = "Colonial Army"
+	location = 1413
+	regiment = {
+		name= "Hussars" 
+                home = 1413
+		type = hussar
+	}
+	regiment = {
+		name= "Infantry" 
+                home = 1413
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+                home = 1413
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+                home = 1413
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+                home = 1413
+		type = infantry
+	}
+	regiment = {
+		name= "Artillery" 
+                home = 1413
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery" 
+                home = 1413
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery"
+
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery" 
+                home = 1413
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery" 
+                home = 1413
+		type = artillery
+	}
+}
+
+army = {
+	name = "Army 1"
+	location = 387
+	regiment = {
+		name= "Hussars" 
+        home = 387
+		type = hussar
+	}
+	regiment = {
+		name= "Hussars" 
+        home = 387
+		type = hussar
+	}
+	regiment = {
+		name= "Infantry" 
+        home = 387
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+        home = 387
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+        home = 387
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+        home = 387
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+        home = 387
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+        home = 387
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+        home = 387
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+        home = 387
+		type = infantry
+	}
+	regiment = {
+		name= "Artillery" 
+        home = 387
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery" 
+        home = 387
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery"
+        home = 387
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery" 
+        home = 387
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery" 
+        home = 387
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery" 
+        home = 387
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery" 
+        home = 387
+		type = artillery
+        }
+	regiment = {
+		name= "Artillery" 
+        home = 387
+		type = artillery
+        }
+	regiment = {
+		name= "Artillery" 
+        home = 387
+		type = artillery
+        }
+	regiment = {
+		name= "Artillery" 
+	    home = 387	
+		type = artillery
+        }
+}
+
+army = {
+	name = "Army 2"
+	location = 395
+	regiment = {
+		name= "Hussars" 
+        home = 395
+		type = hussar
+	}
+	regiment = {
+		name= "Hussars" 
+        home = 395
+		type = hussar
+	}
+	regiment = {
+		name= "Infantry" 
+        home = 395
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+        home = 395
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+        home = 395
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+        home = 395
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+        home = 395
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+        home = 395
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+        home = 395
+		type = infantry
+	}
+	regiment = {
+		name= "Infantry" 
+        home = 395
+		type = infantry
+	}
+	regiment = {
+		name= "Artillery" 
+        home = 395
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery" 
+        home = 395
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery"
+        home = 395
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery" 
+        home = 395
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery" 
+        home = 395
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery" 
+         home = 395
+		type = artillery
+	}
+	regiment = {
+		name= "Artillery" 
+         home = 395
+		type = artillery
+        }
+	regiment = {
+		name= "Artillery" 
+         home = 395
+		type = artillery
+        }
+	regiment = {
+		name= "Artillery" 
+         home = 395
+		type = artillery
+        }
+	regiment = {
+		name= "Artillery" 
+         home = 395
+		type = artillery
+        }
+}
+
+navy = {
+	name = "Navy"
+	location = 388
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Ship" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Ship" 
+		type = steam_transport
+	}
+	ship = {
+		name= "SShip7" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Ship" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Ship" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Ship" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Ship" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Ship" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = commerce_raider
+	}
+	ship = {
+		name= "Ship" 
+		type = commerce_raider
+	}
+	ship = {
+		name= "Ship" 
+		type = commerce_raider
+	}
+	ship = {
+		name= "Ship" 
+		type = commerce_raider
+	}
+	ship = {
+		name= "Ship" 
+		type = commerce_raider
+	}
+	ship = {
+		name= "Ship" 
+		type = commerce_raider
+	}
+	ship = {
+		name= "Ship" 
+		type = commerce_raider
+	}
+	ship = {
+		name= "Ship" 
+		type = commerce_raider
+	}
+	ship = {
+		name= "Ship" 
+		type = commerce_raider
+	}
+
+
+
+navy = {
+	name = "Navy"
+	location = 375
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Transport" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Ship" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Ship" 
+		type = steam_transport
+	}
+	ship = {
+		name= "SShip7" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Ship" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Ship" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Ship" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Ship" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Ship" 
+		type = steam_transport
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = ironclad
+	}
+	ship = {
+		name= "Ship" 
+		type = commerce_raider
+	}
+	ship = {
+		name= "Ship" 
+		type = commerce_raider
+	}
+	ship = {
+		name= "Ship" 
+		type = commerce_raider
+	}
+	ship = {
+		name= "Ship" 
+		type = commerce_raider
+	}
+	ship = {
+		name= "Ship" 
+		type = commerce_raider
+	}
+	ship = {
+		name= "Ship" 
+		type = commerce_raider
+	}
+	ship = {
+		name= "Ship" 
+		type = commerce_raider
+	}
+	ship = {
+		name= "Ship" 
+		type = commerce_raider
+	}
+	ship = {
+		name= "Ship" 
+		type = commerce_raider
+	}

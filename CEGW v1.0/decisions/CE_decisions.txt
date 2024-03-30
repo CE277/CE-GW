@@ -53,6 +53,8 @@ annex_ai_belgium = {
 				annex_to = NET
 			}
 			BEL = { all_core = { add_core = THIS } }
+			FLA = { all_core = { add_core = THIS } }
+			WLL = { all_core = { add_core = THIS } }
 			set_global_flag = ai_belgium_annexed
 			add_accepted_culture = wallonian
 			add_accepted_culture = flemish

@@ -1,4 +1,4 @@
-V1: Checksum: SMFF
+V1: Checksum: XEVM
 
 - Changed combat width from machine gun tech onwards from -5 to -3
 - Netherlands has part of Belgium can annex the rest through a day 1 decision + Luxembourg

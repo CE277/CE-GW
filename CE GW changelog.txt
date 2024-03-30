@@ -1,4 +1,4 @@
-V1: Checksum: FCWM
+V1: Checksum: GYYV
 
 - Changed combat width from machine gun tech onwards from -5 to -3
 - Netherlands has part of Belgium can annex the rest through a day 1 decision + Luxembourg
@@ -16,6 +16,7 @@ V1: Checksum: FCWM
 - Bulgaria music crashing bug has been fixed
 - Added colored generals
 - Added 3/3 John Cena's
+- Added capital supply depots
 - Added goods to build units to day 1 money event. 500 of the following:
 ~ Artillery
 ~ Small Arms

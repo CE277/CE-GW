@@ -17,6 +17,7 @@ V1: Checksum: XEVM
 - Added colored generals
 - Added 3/3 John Cena's
 - Added capital supply depots
+- Changed factory build time to 30 days
 - Added goods to build units to day 1 money event. 500 of the following:
 ~ Artillery
 ~ Small Arms

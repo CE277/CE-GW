@@ -1,22 +1,21 @@
-V1: Checksum: ZJKA
+V1: Checksum: GBEJ
 
 - Changed combat width from machine gun tech onwards from -5 to -3
 - Netherlands has part of Belgium can annex the rest through a day 1 decision + Luxembourg
 - Australia annexes New Zealand + South Africa + Canada through a day 1 decision
 - Res Publica meme rivers and blue borders have been incorporated
 - Austria-Hungary has been given Czech and Slovak as accepted
-- Russia is down 2 tactics techs on Germany
+- Russia is down 2 tactics techs on Germany compared to 1
 - UK has been given prestige so it is N1 GP
 - Spambot 'balanced' units have been added
 - IGOR general portraits added
 - Starting money events have been doubled in cash terms
 - Peanuts map added
-- Mobilisation events brought back to June rather than July
+- Mobilisation events brought back to July to August
 - Russia's mob event has been nerfed from 10% to 8%
 - Bulgaria music crashing bug has been fixed
 - Added colored generals
 - Added 3/3 John Cena's
-- Added capital supply depots
 - Changed factory build time to 30 days
 - Added goods to build units to day 1 money event. 500 of the following:
 ~ Artillery
@@ -24,5 +23,71 @@ V1: Checksum: ZJKA
 ~ Canned Food
 ~ Liqour
 ~ Wine
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+V2: Checksum: (YEOY)
+
+- Changed combat width from machine gun tech onwards from -3 to -4 (a net increase of 2 from the Pierre aka vanilla base)
+- Changed Bantu pops to African Minor (Bantu pops were being registered as noculture)
+- Given France the 1900 artillery mil tech
+- Given Spain the 1900 artillery mil tech
+- Changed Day 1 money event to give 10 million
+- Adjusted Gas attack to be a -2 rather than -3 
+- Railroads take 120 days to build rather than 320
+- Naval bases take 120 days to build rather than 320
+- Forts take 120 days to build rather than 320
+- Reverted Dutch ability to annex Belgium
+- Belgium can now annex Luxembourg through a day 1 decision 
+- Belgium now gets a mobilisation event of 10%
+- Belgian oob has been edited to give 60 brigades rather than 40
+- Peacetime mobilisation has been removed
+- Added about 50 days to the build time of battleships
+- Annexed Montengro to Serbia 
+- Gave the Montenegrin Army to Serbia
+- Updated Serbia's oob to have it's 51k be a 60k and the new 30k army from Montengegro to be a 60k, in effect this puts them to 80 brigades
+- Portugal's oob has been edited from 10 brigades to its max of 60 brigades
+- Updated Portugese Tech to be equal to Spanish
+- Netherlands oob has been edited to it's max potential of 70 brigades 
+- Gave Netherlands multiple day 1 factories
+- Gave Greece multiple day 1 factories
+- Gave Serbia multiple day 1 factories
+- Gave Bulgaria multiple day 1 factories
+- Gave Romania multiple day 1 factories
+- Gave Portugal multiple day 1 factories
+- Gave Australia multiple day 1 factories
+- Gave New Zealand multiple day 1 factories
+- Gave Sweden multiple day 1 factories
+- Gave Norway multiple day 1 factories
+- Gave Mexico multiple day 1 factories
+- Gave Spain multiple day 1 factories
+- Gave Mexico craftsman
+- Gave Sweden annexation decisions on Norway and Denmark
+- Changed Scandinavian formation requirements to allow Sweden to form Scandi just after annexing Norway and Denmark
+- Sweden's oob has been changed to give an extra 20 brigades bumping them up to 40
+- Gave Sweden 60k more soliders
+- Changed Mexico oob so it now has 50 brigades rather than 10, this now means it has 50/71 professional brigades
+- Halfed the amount of wine to build units
+- Halfed the amount of liqour to build units
+- Halfed the amount of regular clothes to build units
+- Fixed loads of Africa being noculture by changing missing cultures to African Minor
+- Gave Australia another 60k stack in it's oob (this is so they can mob their full potential when annexing the Commonwealth)
+- Gave Australia a better naval oob
+
+
+- Added or changed fort levels in the following provinces
+~ Dunkirk
+~ Cambrai
+~ Charleville
+
+- Added additional goods to build units to the day 1 event. 500 of the following:
+~ Regular clothes
+~ Luxury clothes
+
+- Added additional goods to build factories to the day 1 event. 1000 of the following:
+~ Machine Parts
+~ Steel
+~ Iron
+~ Cement
 
 

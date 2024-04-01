@@ -1,0 +1,52 @@
+country_event = {
+	id = 47652
+	title = "The Powderkeg of Europe"
+	desc = "Welcome to 1914, tension is brewing up in Europe, and there are rumours of a war impending, we must prepare."
+	news = yes
+	news_title = "EVTNAME60160_NEWS_TITLE"
+	news_desc_long = "EVTDESC60160_NEWS_LONG"
+	news_desc_medium = "EVTDESC60160_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC60160_NEWS_SHORT"
+
+	trigger = {
+		exists = yes
+		NOT = { has_country_flag = existing_country1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "May god have mercy on us all..."
+		set_country_flag = existing_country1
+		money = 1000000
+		money = 1000000
+		money = 1000000
+		money = 1000000
+		money = 1000000
+		money = 1000000
+		money = 1000000
+		money = 1000000
+		money = 1000000
+		money = 1000000
+		small_arms = 500
+		artillery = 500
+		canned_food = 500
+		liquor = 500
+		wine = 500
+		regular_clothes = 500
+		luxury_clothes = 500
+		cement = 1000
+		machine_parts = 1000
+		steel = 1000
+		iron = 1000
+		any_pop = {
+			limit = { is_primary_culture = yes }
+			militancy = -2
+		}
+	}
+}
+
+		
+	

@@ -1,0 +1,44 @@
+
+Default Nations:
+
+Entente:
+
+- United Kingdom
+- France
+- Russia
+- Serbia
+- Belgium
+- Australia/Commonwealth
+
+Centrals:
+
+- Germany 
+- Austria-Hungary
+- Ottoman Empire
+- Bulgaria
+
+Drafts:
+
+- Italy
+- Spain
+- Portugal
+- Greece
+- Romania
+- USA
+- Japan
+- Netherlands
+- Sweden/Scandinavia
+- Mexico
+
+Draft System:
+
+1 - Entente
+2 - Centrals
+1 - Entente
+1 - Centrals
+2 - Entente
+1 - Centrals
+1 - Entente
+1 - Centrals
+
+

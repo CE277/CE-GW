@@ -1,0 +1,11 @@
+owner = MON
+controller = MON
+add_core = MON
+trade_goods = fruit
+life_rating = 35
+1914.1.1 = {
+	owner = SER
+	controller = SER
+	add_core = SER
+	railroad = 1
+}

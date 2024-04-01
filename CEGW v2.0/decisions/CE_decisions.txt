@@ -1,0 +1,152 @@
+political_decisions = {
+annex_ai_new_zealand = {
+		picture = dreams_of_empire
+		alert = yes
+		potential = {
+			tag = AST
+			year = 1914
+			NOT = { year = 1915 }
+			exists = NZL
+			ai = no
+			NOT = { has_global_flag = ai_new_zealand_annexed }
+		}
+		
+		allow = {
+			NZL = {
+				ai = yes
+			}
+			year = 1914
+			NOT = { year = 1915 }
+		}
+		
+		effect = {
+			NZL = {
+				annex_to = AST
+			}
+			NZL = { all_core = { add_core = THIS } }
+			set_global_flag = ai_new_zealand_annexed
+		}
+	}
+
+	annex_ai_scandi = {
+		picture = dreams_of_empire
+		alert = yes
+		potential = {
+			tag = SWE
+			year = 1914
+			NOT = { year = 1915 }
+			exists = NOR
+			ai = no
+			NOT = { has_global_flag = ai_scandi_annexed }
+		}
+		
+		allow = {
+			NOR = {
+				ai = yes
+			}
+			year = 1914
+			NOT = { year = 1915 }
+		}
+		
+		effect = {
+			NOR = {
+				annex_to = SWE
+			}
+			DEN = {
+				annex_to = SWE
+			}
+			set_global_flag = ai_scandi_annexed
+		}
+	}
+
+	annex_ai_luxembourg = {
+		picture = dreams_of_empire
+		alert = yes
+		potential = {
+			tag = BEL
+			year = 1914
+			NOT = { year = 1915 }
+			exists = LUX
+			ai = no
+			NOT = { has_global_flag = ai_luxembourg_annexed }
+		}
+		
+		allow = {
+			LUX = {
+				ai = yes
+			}
+			year = 1914
+			NOT = { year = 1915 }
+		}
+		
+		effect = {
+			LUX = {
+				annex_to = BEL
+			}
+			LUX = { all_core = { add_core = THIS } }
+			set_global_flag = ai_luxembourg_annexed
+		}
+	}	
+				
+annex_ai_south_africa = {
+		picture = dreams_of_empire
+		alert = yes
+		potential = {
+			tag = AST
+			year = 1914
+			NOT = { year = 1915 }
+			exists = SAF
+			ai = no
+			NOT = { has_global_flag = ai_south_africa_annexed }
+		}
+		
+		allow = {
+			SAF = {
+				ai = yes
+			}
+			year = 1914
+			NOT = { year = 1915 }
+		}
+		
+		effect = {
+			SAF = {
+				annex_to = AST
+			}
+			SAF = { all_core = { add_core = THIS } }
+			add_accepted_culture = boer
+			set_global_flag = ai_south_africa_annexed
+		}
+	}	
+
+annex_ai_Canada = {
+		picture = dreams_of_empire
+		alert = yes
+		potential = {
+			tag = AST
+			year = 1914
+			NOT = { year = 1915 }
+			exists = CAN
+			ai = no
+			NOT = { has_global_flag = ai_canada_annexed }
+		}
+		
+		allow = {
+			CAN = {
+				ai = yes
+			}
+			year = 1914
+			NOT = { year = 1915 }
+		}
+		
+		effect = {
+			CAN = {
+				annex_to = AST
+			}
+
+			CAN = { all_core = { add_core = THIS } }
+			add_accepted_culture = anglo_canadian
+			add_accepted_culture = french_canadian
+			set_global_flag = ai_canada_annexed
+		}
+	}		
+}

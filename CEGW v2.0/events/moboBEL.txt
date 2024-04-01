@@ -1,0 +1,23 @@
+#Bulgaria mobo
+country_event = {
+	id = 25
+	title = "The Belgian Army"
+	desc = "To truly authenticate the Great War your country has been given historical mobolisation."
+
+	trigger = {
+		tag = BEL
+                year = 1914
+                month = 6
+		is_vassal = no
+		NOT = {
+			has_country_modifier = bel_mobo
+		}
+	}
+
+
+	option = {
+		name = "Glory to Belgium!"
+		BEL = { add_country_modifier = { name = bel_mobo duration = -1 } }
+
+	}
+}

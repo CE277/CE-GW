@@ -1,0 +1,28 @@
+Extremely Basic Rules For GW game:
+
+1. Exploits:
+   - Do not use exploits. If you have to ask you probably shouldn't be doing it.
+
+2. War Etiquette:
+   - Do not hold peace deals.
+   - Respond to calls to arms within 14 days.
+   - Announce in chat war declarations and participation in conflicts with a pause.
+   - Adding multiple CBs on the same target or a general target to exploit tickers is not allowed.
+   - You must take land used for tickers unless they were unilaterally added. (GM must be made aware when the war goal is added as soon as possible)
+   - You are not allowed to add more than 100% in tickers in any given war. 
+   
+3. Combat:
+   - During wars, Do not multi-province retreat, attacking or retreating to and from neutral territory, neutral to enemy is not allowed and retreating behind an opponents lines. (GM discretion as what clarifies as a 'line')
+   - If you control a puppet, be prepared to engage it in a war when requested by another player.
+
+4. Miscellaneous:
+   - You may only release a nation if it is not nation ruining. (GM discretion)
+   - You must be able to sustain 3 speed.
+   - Show up on time, <@479928323984850964> you in particular.
+‐---------------------‐-------------------  ‐---------------------‐-------------------
+GW Specific Rules:
+
+- War must be declared after August 1914 but prior to 1915
+- Periphery nations do not have to be called in day 1 however the other side may force them in any time if they have a CB on them after 1915
+- Periphery nations (that is those NOT in either side by default) cannot join the war until at minimum 1915
+- The USA cannot join the war until 1916 regardless of sides 

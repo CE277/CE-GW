@@ -90,4 +90,18 @@ V2: Checksum: (YEOY)
 ~ Iron
 ~ Cement
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+V2.1: (Checksum: )
+
+
+- Removed Blueborder from the following:
+~ Treviso ~ Bozen
+~ Treviso ~ Lienz
+~ Treviso ~ Klagenfurt
+~ Udine ~ Klagenfurt
+
+
+- Added more dynamic WE 
+- Gave Military Directionism to Spain
+- Gave Military Directionism to Portugal

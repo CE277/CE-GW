@@ -225,6 +225,7 @@ school_reforms = low_schools
 	army_professionalism = 1
 	army_decision_making = 1
 	army_risk_management = 1
+	military_directionism = 1
 	
 	post_nelsonian_thought = 1
 	battleship_column_doctrine = 1
